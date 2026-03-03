@@ -1,4 +1,4 @@
-# data-analytics-portfolio 
+# Data Analytics Portfolio
 Herbert Garcia  
 Business Analytics | Python | R | SQL | Data Visualization  
 
